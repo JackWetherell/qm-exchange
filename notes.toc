@@ -1,0 +1,30 @@
+\contentsline {section}{\numberline {1}Basic Algebraic Language}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Operations and Composition}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Abelian: Order Does Not Matter}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Isotropic: No Preferred Direction}{3}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Idempotent: Once Is Enough}{4}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Idempotent Versus Self-Inverse}{4}{subsection.1.5}%
+\contentsline {section}{\numberline {2}Projection Operators}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Eigenvalues of an Idempotent}{5}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Quantum States and Identical Particles}{5}{section.3}%
+\contentsline {section}{\numberline {4}The Exchange Operator}{6}{section.4}%
+\contentsline {section}{\numberline {5}Deriving $p^2=1$}{6}{section.5}%
+\contentsline {section}{\numberline {6}Bosons: Symmetric Exchange}{6}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Physical Intuition}{7}{subsection.6.1}%
+\contentsline {section}{\numberline {7}Fermions: Antisymmetric Exchange}{7}{section.7}%
+\contentsline {subsection}{\numberline {7.1}The Pauli Exclusion Principle}{7}{subsection.7.1}%
+\contentsline {section}{\numberline {8}Projection onto Bosonic and Fermionic Subspaces}{7}{section.8}%
+\contentsline {section}{\numberline {9}Spin and Statistics}{8}{section.9}%
+\contentsline {section}{\numberline {10}Matter and Forces as Exchange Behaviors}{8}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Fermions Create Separateness}{8}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Bosons Create Coherence}{9}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}A Useful Intuition}{9}{subsection.10.3}%
+\contentsline {section}{\numberline {11}Why Three Dimensions Give Only Bosons and Fermions}{9}{section.11}%
+\contentsline {section}{\numberline {12}The Two-Dimensional Loophole: Anyons}{9}{section.12}%
+\contentsline {subsection}{\numberline {12.1}Bosons and Fermions as Special Cases}{9}{subsection.12.1}%
+\contentsline {section}{\numberline {13}Abelian Anyons}{10}{section.13}%
+\contentsline {section}{\numberline {14}Non-Abelian Anyons}{10}{section.14}%
+\contentsline {section}{\numberline {15}Experimental Status of Anyons}{11}{section.15}%
+\contentsline {section}{\numberline {16}Smoothly Interpolating Between ``Stuff'' and ``Forces''}{11}{section.16}%
+\contentsline {section}{\numberline {17}Conceptual Summary}{11}{section.17}%
+\contentsline {section}{\numberline {18}Suggested Further Reading}{12}{section.18}%
